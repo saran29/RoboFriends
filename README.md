@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About
+This web application fetches name and email data from an API, displays it in card fashion along with pictures. Users can search by name to see results. 
+
+### Website
+[https://saran29.github.io/RoboFriends/](https://saran29.github.io/RoboFriends/)
