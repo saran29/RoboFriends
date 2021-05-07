@@ -6,7 +6,7 @@ React
 JavaScript
 HTML
 CSS
-Tachyons - CSS Framework
+Tachyons 
 
 ### View
 [https://saran29.github.io/RoboFriends/](https://saran29.github.io/RoboFriends/)
